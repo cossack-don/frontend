@@ -6,20 +6,20 @@ sidebar: auto
 
 ## HTML
 
-- Type: `string`
-- Default: `/`
+- Практический курс
+- [Ссылка](https://www.youtube.com/watch?v=DOEtVdkKwcU)
 
 ## CSS
 
-- Type: `string`
-- Default: `/`
+- Практический курс
+- [Ссылка](https://www.youtube.com/watch?v=SpCUuyZZTp8)
 
 ## JavaScript
-
-- Type: `string`
-- Default: `/`
+- Учебник
+- [Ссылка](https://learn.javascript.ru/)
+- Упрощенный учебник
+- [Ссылка](https://www.code.mu/ru/javascript/book/prime/)
 
 ## Иное
-
-- Например имя Либы
-- [Ссылка](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/core)
+- Документация по HTML, CSS, JavaScript
+- [Ссылка](https://developer.mozilla.org/ru/)

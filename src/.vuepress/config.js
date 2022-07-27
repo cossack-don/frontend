@@ -46,7 +46,7 @@ module.exports = {
     nav: [
       {
         text: 'Курс',
-        link: '/guide/',
+        link: '/guide/start/1.html',
       },
       // {
       //   text: 'React',
@@ -56,10 +56,6 @@ module.exports = {
         text: 'Полезные ссылки',
         link: '/config/'
       },
-      // {
-      //   text: 'VuePress',
-      //   link: 'https://v1.vuepress.vuejs.org'
-      // }
     ],
     sidebar: {
       '/guide/': [
@@ -70,15 +66,25 @@ module.exports = {
             'start/1',
             'start/2',
             'start/3',
-            'start/4'
+            'start/4',
+            'start/5',
+            'start/6',
+            'start/7'
           ]
         },
         {
           title: 'HTML5',
           collapsable: false,
           children: [
-            'html/html',
-            'using-vue',
+            //  4-й файл не создал, пропустил
+            'html/1',
+            'html/2',
+            'html/3',
+            'html/5',
+            'html/6',
+            'html/7',
+            'html/8',
+            'html/9',
           ]
         },
         {
