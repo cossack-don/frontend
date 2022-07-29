@@ -115,9 +115,7 @@ module.exports = {
           title: 'Практика - To Do List',
           collapsable: false,
           children: [
-            '',
-            'using-vue',
-            'test-vue',
+            'to-do-list/1',
           ]
         }
       ],
