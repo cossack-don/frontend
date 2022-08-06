@@ -63,6 +63,7 @@ module.exports = {
           title: 'Введение',
           collapsable: false,
           children: [
+            'start/0',
             'start/1',
             'start/2',
             'start/8',
@@ -87,23 +88,27 @@ module.exports = {
             'html/7',
             'html/8',
             'html/9',
+            'html/10',
           ]
         },
         {
           title: 'CSS3',
           collapsable: false,
           children: [
-            '',
             'css/1',
             'css/2',
             'css/3',
             'css/4',
             'css/5',
             'css/6',
+            'css/7',
+            'css/8',
+            'css/9',
+            'css/10',
           ]
         },
         {
-          title: 'JavaScript',
+          title: 'javascript',
           collapsable: false,
           children: [
             'js/1',
@@ -113,6 +118,9 @@ module.exports = {
             'js/5',
             'js/6',
             'js/7',
+            'js/8',
+            'js/9',
+            'js/10',
           ]
         },
         {
