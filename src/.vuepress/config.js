@@ -48,10 +48,6 @@ module.exports = {
         text: 'Курс',
         link: '/guide/start/1.html',
       },
-      // {
-      //   text: 'React',
-      //   link: '/react/',
-      // },
       {
         text: 'Полезные ссылки',
         link: '/config/'
@@ -131,17 +127,6 @@ module.exports = {
           ]
         }
       ],
-      // '/react/': [
-      //   {
-      //     title: 'React',
-      //     collapsable: false,
-      //     children: [
-      //       '',
-      //       'using-vue',
-      //       'test-vue',
-      //     ]
-      //   }
-      // ],
     }
   },
 
