@@ -59,7 +59,6 @@ module.exports = {
           title: 'Введение',
           collapsable: false,
           children: [
-            'start/0',
             'start/1',
             'start/2',
             'start/8',
