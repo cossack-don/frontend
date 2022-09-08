@@ -1,3 +1,22 @@
+- Идеи для редактора модуля ХТМЛ5
+
+W3C
+Про теги в целом 
+Про новые теги 
+Про семантику СЕО и для слепых 
+
+Про гит рассказать 
+
+Модули Про сравнения Вью Ангуляр и реакт 
+
+Pug 
+Twig
+PHP
+
+https://habr.com/ru/post/219873/?ysclid=l7tck3gquk391023706
+http://bologer.ru/tegi-html-10-krutyx-veshhej-kotorye-oni-mogut-delat/?ysclid=l7tcndnuah285143857
+
+
 # Курс - Frontend разработчик с 0
 
 # Нужно внести блок про Git - основы, про TypeScript, Coffe Script и т.д.
