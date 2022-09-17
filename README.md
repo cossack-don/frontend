@@ -2,7 +2,7 @@
 
 ### Модули (каждый рассчитан на 60-90 минут)
 1. Введение
-2. HTML5
+2. HTML5 + core Git + GutHub
 3. CSS3
 4. JavaScript ES6
 5. To Do List - проект на Vue 3
