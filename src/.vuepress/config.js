@@ -84,6 +84,7 @@ module.exports = {
             'html/8',
             'html/9',
             'html/10',
+            'html/11',
           ]
         },
         {
