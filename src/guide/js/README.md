@@ -1,5 +1,7 @@
 # Список тем модуля JavaScript
 
+## Нужно добавить сравнение с TypeScript , Coffe Script и т.д.
+
 1. JavaScript - это
 2. Типы данных
 3. Переменные
