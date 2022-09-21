@@ -37,3 +37,9 @@ https://metanit.com/web/html5/?ysclid=l8bsw47dc2800528465
 https://developer.mozilla.org/ru/docs/Learn/CSS
 
 
+Flex box , grids - тп верстак примеры, генераторы онлайн 
+
+https://okmysite.com/css/css_uchebnik/css_uchebnik.html?ysclid=l8bsy4d4hj914223045
+
+https://basicweb.ru/css/css_book.php
+
