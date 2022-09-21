@@ -1,5 +1,9 @@
 # Список тем по CSS
 
+
+https://proglib.io/p/css-resourses?ysclid=l8bt0rhorx261641029
+
+
 Продумать контент на 1 час 
 Побольше примеров и картинок
 Посмотреть какие темы интересные для цсс и можно развернуть
@@ -41,5 +45,10 @@ Flex box , grids - тп верстак примеры, генераторы он
 
 https://okmysite.com/css/css_uchebnik/css_uchebnik.html?ysclid=l8bsy4d4hj914223045
 
+https://proglang.su/css?ysclid=l8bt2vz837162411859
+
 https://basicweb.ru/css/css_book.php
 
+https://msiter.ru/tutorials/css-nachalnogo-urovnya?ysclid=l8bt21i18a895863720Vue
+
+https://msiter.ru/tutorials/css-nachalnogo-urovnya?ysclid=l8bt21i18a895863720
