@@ -24,3 +24,16 @@
 - Глобальные переменные  vars
 - Префиксы для каждого браузера 
 - Минимизация и сжатие цсс файла - это делает сборщик 
+
+Ссылки на учебники
+
+Список литературы почитать дать и видео 
+
+https://code.mu/ru/markup/book/supreme/
+http://htmlbook.ru/samcss/sposoby-dobavleniya-stiley-na-stranitsu
+
+https://metanit.com/web/html5/?ysclid=l8bsw47dc2800528465
+
+https://developer.mozilla.org/ru/docs/Learn/CSS
+
+
