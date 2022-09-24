@@ -81,13 +81,14 @@ module.exports = {
             'html/5',
             'html/6',
             'html/7',
+            'html/14',
             'html/8',
             'html/9',
             'html/10',
             'html/11',
             'html/12',
             'html/13',
-            'html/14',
+            'html/15',
           ]
         },
         {
