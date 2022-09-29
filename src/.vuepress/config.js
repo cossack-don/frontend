@@ -105,6 +105,15 @@ module.exports = {
             'css/8',
             'css/9',
             'css/10',
+            'css/11',
+            'css/12',
+            'css/13',
+            'css/14',
+            'css/15',
+            'css/16',
+            'css/17',
+            'css/18',
+            'css/19',
           ]
         },
         {
