@@ -96,7 +96,6 @@ module.exports = {
           collapsable: false,
           children: [
             'css/1',
-            'css/2',
             'css/3',
             'css/4',
             'css/5',
