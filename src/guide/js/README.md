@@ -1,6 +1,13 @@
 # Список тем модуля JavaScript
 
-модуль JS к 20-октября
+# модуль JS к 20-октября
+
+ссылки учебников https://www.schoolsw3.com/js/index.php <br/>
+https://www.wm-school.ru/js/ <br/>
+https://itchief.ru/javascript/ <br/>
+to code <br/>
+code.me <br/>
+lern.js <br/>
 
 проработать получше данный модуль + скрины и примеры
 
