@@ -116,7 +116,7 @@ module.exports = {
           ]
         },
         {
-          title: 'javascript',
+          title: 'Javascript',
           collapsable: false,
           children: [
             'js/1',
