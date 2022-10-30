@@ -1,6 +1,7 @@
 # Практика - модуль 5
 
 ## Готовый проект - https://stackblitz.com/edit/vue-h5nepx?file=src%2FApp.vue
+## Делал еще другой проект TO DO LIST MTT - draft-light - https://codesandbox.io/embed/to-do-list-forked-781iu1?fontsize=14&theme=dark
 
 ### План урока
 1. Анализ картинки (макета) нашего приложения
